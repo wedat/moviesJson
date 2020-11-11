@@ -1,6 +1,7 @@
 {
     "movies": 
     [
-        {"id":1, "title":"Godfather" }
+        {"id":1, "title":"Godfather" },
+        {"id":2, "title":"Se7en" }
     ]
 }
